@@ -1,0 +1,1 @@
+This is a small project with GOLANG and using git.
